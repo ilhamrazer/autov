@@ -3,7 +3,7 @@ import { connect } from "cloudflare:sockets";
 // Variables
 const rootDomain = "chantika.us.kg"; // Ganti dengan domain utama kalian
 const serviceName = "ngopibareng"; // Ganti dengan nama workers kalian
-const apiKey = ""; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
+const apiKey = "93b8dd9834c796124d11f13578cb59cfae27e"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "ilhamsyahdani06@gmail.com"; // Ganti dengan email yang kalian gunakan
 const accountID = "92d3943e1c315bd3ef6ba7d124bf6aac"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 const zoneID = "OoV2t-CygTToNomuDR1depu6THPU1RL8Jz45-BLp"; // Ganti dengan Zone ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
