@@ -7,7 +7,7 @@ const DEFAULT_PROXY_BANK_URL = "https://raw.githubusercontent.com/FoolVPN-ID/Nau
 const TELEGRAM_BOT_TOKEN = '7658610173:AAEUlULg65ATnaX3_PeGR44XxW7o5cuX6Qw';
 const TELEGRAM_API_URL = `https://api.telegram.org/bot${7658610173:AAEUlULg65ATnaX3_PeGR44XxW7o5cuX6Qw}`;
 const APICF = 'https://ipcf.rmtq.fun/json/';
-const FAKE_HOSTNAME = 'vvip.afrcloud.xyz';
+const FAKE_HOSTNAME = 'cyantika.us.kg';
 
 // Fungsi untuk menangani `/active`
 async function handleActive(request) {
