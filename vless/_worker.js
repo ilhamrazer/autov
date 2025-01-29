@@ -5,7 +5,7 @@ let cachedProxyList = [];
 let proxyIP = "";
 const DEFAULT_PROXY_BANK_URL = "https://raw.githubusercontent.com/FoolVPN-ID/Nautica/refs/heads/main/proxyList.txt";
 const TELEGRAM_BOT_TOKEN = '7658610173:AAEUlULg65ATnaX3_PeGR44XxW7o5cuX6Qw';
-const TELEGRAM_API_URL = `https://api.telegram.org/bot${7658610173:AAEUlULg65ATnaX3_PeGR44XxW7o5cuX6Qw}`;
+const TELEGRAM_API_URL = `https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN`;
 const APICF = 'https://ipcf.rmtq.fun/json/';
 const FAKE_HOSTNAME = 'cyantika.us.kg';
 
