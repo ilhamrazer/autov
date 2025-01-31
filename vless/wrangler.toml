@@ -22,4 +22,4 @@ routes = [
 workers_dev = false
 
 [vars]
-CHECK_API_BASE = "https://check.installer.us.kg"
+apiCheck = 'https://check.installer.us.kg/check?ip=';
