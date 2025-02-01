@@ -5,11 +5,11 @@ let cachedProxyList = [];
 let proxyIP = "";
 let apiCheck = 'https://ipcf.rmtq.fun/json/?ip=';
 
-const DEFAULT_PROXY_BANK_URL = "https://raw.githubusercontent.com/FoolVPN-ID/Nautica/refs/heads/main/proxyList.txt";
-const TELEGRAM_BOT_TOKEN = '7833722384:AAGYDrwFuOB8kRBs6hSTvXGVyMW0C0fDZcc';
+const DEFAULT_PROXY_BANK_URL = "https://raw.githubusercontent.com/AFRcloud/iptfstore/refs/heads/main/vip.txt";
+const TELEGRAM_BOT_TOKEN = '7658610173:AAEUlULg65ATnaX3_PeGR44XxW7o5cuX6Qw';
 const TELEGRAM_API_URL = `https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}`;
 const APICF = 'https://ipcf.rmtq.fun/json/';
-const FAKE_HOSTNAME = 'cyantika.us.kg';
+const FAKE_HOSTNAME = 'mvviv.us.kg';
 const ownerId = 6847623074; // Ganti dengan chat_id pemilik bot (angka tanpa tanda kutip)
 
 
@@ -418,11 +418,11 @@ async function handleStartCommand(chatId) {
 
 📌 Daftar Commands : /info
 
-👨‍💻 Dikembangkan oleh: [Incognito Mode](https://t.me/Inconigt0)
+👨‍💻 Dikembangkan oleh: [Incognito Mode](https://t.me/Xciplbot)
 
 🌐 WEB VPN TUNNEL : [VPN Tunnel CloudFlare](https://vip.rmtq.fun)
-📺 CHANNEL : [Inconigto Channel](https://t.me/inconigtostore)
-👥 GROUP : [Incognito Grup](https://t.me/+kz5Z_vC2M84xY2Q1)
+📺 CHANNEL : [Inconigto Channel](https://x.me/inconigtostore)
+👥 GROUP : [Incognito Grup](https://t.xe/+kz5Z_vC2M84xY2Q1)
   `;
   await sendTelegramMessage(chatId, welcomeMessage);
 }
@@ -435,18 +435,18 @@ async function handleGetInfo(chatId) {
 2️⃣ \`/getrandom <Country>\`
 3️⃣ \`/listwildcard\`
 
-👨‍💻 Dikembangkan oleh: [Incognito Mode](https://t.me/Inconigt0)
+👨‍💻 Dikembangkan oleh: [Incognito Mode](https://t.me/Xciplbot)
 
-🌐 WEB VPN TUNNEL : [VPN Tunnel CloudFlare](https://vip.rmtq.fun)
-📺 CHANNEL : [Inconigto Channel](https://t.me/inconigtostore)
-👥 GROUP : [Incognito Grup](https://t.me/+kz5Z_vC2M84xY2Q1)
+🌐 WEB VPN TUNNEL : [VPN Tunnel CloudFlare](https://mvviv.us.kg)
+📺 CHANNEL : [Inconigto Channel](https://tx.me/inconigtostore)
+👥 GROUP : [Incognito Grup](https://tx.me/+kz5Z_vC2M84xY2Q1)
   `;
   await sendTelegramMessage(chatId, InfoMessage);
 }
  
 
 async function handleListWildcard(chatId) {
-  const afrcloud = `vip.rmtq.fun`;
+  const afrcloud = `mvviv.us.kg`;
   const infoMessage = `
 🎉 List Wildcard VPN Tunnel Incognito Bot! 🎉
 
@@ -458,7 +458,7 @@ async function handleListWildcard(chatId) {
 6️⃣ \`zaintest.vuclip.com.${afrcloud}\`
 7️⃣ \`client.youtube.com.${afrcloud}\`
 8️⃣ \`mssdk24-normal-useast2a.tiktokv.com.${afrcloud}\`
-9️⃣ \`cdn.appsflayer.com.${afrcloud}\`
+9️⃣ \`investor.fb.com.${afrcloud}\`
 🔟 \`support.zoom.us.${afrcloud}\`
 
 👨‍💻 Dikembangkan oleh: [Incognito Mode](https://t.me/Inconigt0)
