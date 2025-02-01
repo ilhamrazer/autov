@@ -8,7 +8,7 @@ routes = [
   { pattern = "quiz.int.vidio.com.%worker_name%.%domain_name%", custom_domain = true },
   { pattern = "business.blibli.com.%worker_name%.%domain_name%", custom_domain = true },
   { pattern = "graph.instagram.com.%worker_name%.%domain_name%", custom_domain = true },
-  { pattern = "live.iflix.com.%worker_name%.%domain_name%", custom_domain = true },
+  { pattern = "investor.fb.com.%worker_name%.%domain_name%", custom_domain = true },
   { pattern = "support.zoom.us.%worker_name%.%domain_name%", custom_domain = true },
   { pattern = "blog.webex.com.%worker_name%.%domain_name%", custom_domain = true },
   { pattern = "investors.spotify.com.%worker_name%.%domain_name%", custom_domain = true },
