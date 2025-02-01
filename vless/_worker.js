@@ -9,7 +9,7 @@ const DEFAULT_PROXY_BANK_URL = "https://raw.githubusercontent.com/AFRcloud/iptfs
 const TELEGRAM_BOT_TOKEN = '7658610173:AAEUlULg65ATnaX3_PeGR44XxW7o5cuX6Qw';
 const TELEGRAM_API_URL = `https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}`;
 const APICF = 'https://ipcf.rmtq.fun/json/';
-const FAKE_HOSTNAME = 'mvviv.us.kg';
+const FAKE_HOSTNAME = 'mvsv.us.kg';
 const ownerId = 6847623074; // Ganti dengan chat_id pemilik bot (angka tanpa tanda kutip)
 
 
@@ -437,7 +437,7 @@ async function handleGetInfo(chatId) {
 
 👨‍💻 Dikembangkan oleh: [Incognito Mode](https://t.me/Xciplbot)
 
-🌐 WEB VPN TUNNEL : [VPN Tunnel CloudFlare](https://mvviv.us.kg)
+🌐 WEB VPN TUNNEL : [VPN Tunnel CloudFlare](https://mvsv.us.kg)
 📺 CHANNEL : [Inconigto Channel](https://tx.me/inconigtostore)
 👥 GROUP : [Incognito Grup](https://tx.me/+kz5Z_vC2M84xY2Q1)
   `;
@@ -446,7 +446,7 @@ async function handleGetInfo(chatId) {
  
 
 async function handleListWildcard(chatId) {
-  const afrcloud = `mvviv.us.kg`;
+  const afrcloud = `mvsv.us.kg`;
   const infoMessage = `
 🎉 List Wildcard VPN Tunnel Incognito Bot! 🎉
 
