@@ -20,6 +20,3 @@ routes = [
 ]
 
 workers_dev = false
-
-[vars]
-apiCheck = 'https://check.installer.us.kg/check?ip='
